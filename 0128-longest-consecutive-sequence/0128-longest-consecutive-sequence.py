@@ -1,29 +1,13 @@
-# class Solution:
-#     def longestConsecutive(self, nums: List[int]) -> int:
-#         store=set(nums)
-#         res=0
-#         for num in nums:    
-           
-#             curr=num
-#             streak=0
-#             while curr in store:
-                
-#                 streak+=1
-#                 curr+=1
-#             res=max(res,streak)
-#         return res
-
-
-
-
+#find if a number is start of a sequence , if yes find if num+1 exists in the set until it doesnt, in the meantime update the length counter accordingly; we will find until num+length not num+1 since length updates and again we need to check for next in the sequence 
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-        myset=set(nums)
-        res=0
-        for num in myset:
-            if (num-1) not in myset:
-                length=1
-                while num+length in myset:
-                    length+=1
-                res=max(res,length)
-        return res
+        numSet = set(nums)
+        longest = 0
+
+        for num in numSet:
+            if (num - 1) not in numSet:
+                length = 1
+                while (num + length) in numSet:
+                    length += 1
+                longest = max(length, longest)
+        return longest
