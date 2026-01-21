@@ -17,9 +17,12 @@ class Solution:
                     l += 1
                 else:
                     res.append([a,nums[l],nums[r]])
+                    #if solution is found then move both pointers since moving
+                    #only one pointer can never yeild a same result i.e 0
                     l+=1
                     r-=1
-
+                    # if we have already found 1 solution then we check for 
+                    #duplicates of l to avoid same result
                     while(l<r and nums[l]==nums[l-1]):
                         l+=1
         return res              
