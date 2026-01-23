@@ -1,31 +1,29 @@
-class Solution(object):
-    def checkInclusion(self, s1, s2):
-        if len(s1) > len(s2):
+class Solution:
+    def checkInclusion(self, s1: str, s2: str) -> bool:
+        if len(s1)>len(s2):
             return False
+        
+        s1arr=[0]*26
+        s2arr=[0]*26
 
-        s1arr = [0] * 26
-        s2arr = [0] * 26
-
-        # build frequency arrays for s1 and first window in s2
         for i in range(len(s1)):
-            index_s1 = ord(s1[i]) - ord('a')  # character index in s1
-            index_s2 = ord(s2[i]) - ord('a')  # character index in s2
+            indexs1=ord(s1[i])-ord('a')
+            indexs2=ord(s2[i])-ord('a')
 
-            s1arr[index_s1] += 1
-            s2arr[index_s2] += 1
+            s1arr[indexs1]+=1
+            s2arr[indexs2]+=1
 
-        # sliding window
-        for i in range(len(s2) - len(s1)):
-            if s1arr == s2arr:
+        for i in range(len(s2)-len(s1)):
+            if s1arr==s2arr:
                 return True
+            
+            index_right = ord(s2[i+len(s1)])-ord('a')
+            index_left= ord(s2[i])-ord('a')
 
-            # calculate indices for clarity
-            index_right = ord(s2[i + len(s1)]) - ord('a')  # new char entering window
-            index_left = ord(s2[i]) - ord('a')             # old char leaving window
+            s2arr[index_right]+=1
+            s2arr[index_left]-=1
 
-            # update s2arr
-            s2arr[index_right] += 1
-            s2arr[index_left] -= 1
+        return s2arr==s1arr
 
-        # final window check
-        return s1arr == s2arr
+        
+
