@@ -3,6 +3,8 @@ class Solution:
         l,r=0,len(nums)-1
         while l<=r:
             mid = (l+r)//2
+
+            #left sorted array -> what moves left to right
             if target == nums[mid]:
                 return mid
             if nums[l]<=nums[mid]:
@@ -10,6 +12,7 @@ class Solution:
                     l=mid+1
                 else:
                     r=mid-1
+            #right sorted array -> what moves right to left 
             else:
                 if target < nums[mid] or target > nums[r]:
                     r=mid-1
