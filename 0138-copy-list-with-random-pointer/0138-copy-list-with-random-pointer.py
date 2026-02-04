@@ -10,6 +10,7 @@ class Node:
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
         copyMap={None:None}
+        #map; key(purano node):value(naya node)
         curr=head
         while curr:
             copy = Node(curr.val)
