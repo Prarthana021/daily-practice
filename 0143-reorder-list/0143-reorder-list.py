@@ -27,21 +27,11 @@ class Solution:
         
         first=head
         second=prev   #last element will be pointed by prev
-        while second:
-            temp1= first.next
+        while second:  #since we knnow second will be smallest 
+            temp1=first.next
             temp2=second.next
-
             first.next=second
             second.next=temp1
-            first=temp1
-            second=temp2
-
-
-
-
-            
-
-
-
-
+            first=temp1     #incrementing first
+            second=temp2    #incrementing second
         
