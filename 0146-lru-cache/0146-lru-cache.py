@@ -7,6 +7,7 @@ class Node:
         self.value=value
         self.prev=None
         self.next=None
+
 #cache : key  →  Node(key, value)
 #hashmap key=key, value = Node object(k,v)
 class LRUCache:
