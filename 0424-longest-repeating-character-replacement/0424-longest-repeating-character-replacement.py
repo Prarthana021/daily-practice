@@ -1,16 +1,19 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         count={}
-        res=0
         l=0
+        res=0
         for r in range(len(s)):
-            count[s[r]] = 1 + count.get(s[r],0)
-            #Window size = r - l + 1 should always be calculated dynamically
-            #because l changes inside the loop. so dont use variable like winlen
-            while r-l+1 - max(count.values()) > k:
+            count[s[r]]=count.get(s[r],0)+1
+            while (r-l+1)-max(count.values())>k:
                 count[s[l]]-=1
-                l+=1 
-            res =max(res, r-l+1) 
+                l+=1
+            res=max(res,r-l+1)
         return res
 
-        
+
+
+
+            #Window size = r - l + 1 should always be calculated dynamically
+            #because l changes inside the loop. so dont use variable like winlen
+            #because until window beocmes valid we increment value of l and again with new value we check window validity so this is very dynamic thing
