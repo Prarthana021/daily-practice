@@ -17,3 +17,12 @@ class Solution:
             #Window size = r - l + 1 should always be calculated dynamically
             #because l changes inside the loop. so dont use variable like winlen
             #because until window beocmes valid we increment value of l and again with new value we check window validity so this is very dynamic thing
+
+
+#sliding window:
+
+# while window is invalid:
+    # make valid
+    #shrink window by moving left
+
+    
