@@ -3,11 +3,40 @@ class Solution:
         buy=0
         sell=1
         maxprofit=0
-        while sell < len(prices):
-            if(prices[buy] < prices[sell]):
+        while sell<len(prices):
+            if prices[buy]>prices[sell]:
+                buy=sell
+            else:
+               
                 profit=prices[sell]-prices[buy]
                 maxprofit=max(maxprofit,profit)
-            else:
-                buy=sell
             sell+=1
         return maxprofit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
