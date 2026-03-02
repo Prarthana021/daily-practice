@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Prarthana021/daily-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prarthana021/daily-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Prarthana021/daily-practice/tree/master/0011-container-with-most-water) |
@@ -26,12 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Prarthana021/daily-practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Prarthana021/daily-practice/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prarthana021/daily-practice/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Prarthana021/daily-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prarthana021/daily-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Prarthana021/daily-practice/tree/master/0049-group-anagrams) |
@@ -46,20 +46,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Prarthana021/daily-practice/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Prarthana021/daily-practice/tree/master/0981-time-based-key-value-store) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prarthana021/daily-practice/tree/master/0128-longest-consecutive-sequence) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Prarthana021/daily-practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Prarthana021/daily-practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Prarthana021/daily-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prarthana021/daily-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prarthana021/daily-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Prarthana021/daily-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Prarthana021/daily-practice/tree/master/0049-group-anagrams) |
@@ -69,33 +69,34 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Prarthana021/daily-practice/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Prarthana021/daily-practice/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prarthana021/daily-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Prarthana021/daily-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prarthana021/daily-practice/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Prarthana021/daily-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Prarthana021/daily-practice/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prarthana021/daily-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -107,8 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Prarthana021/daily-practice/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Prarthana021/daily-practice/tree/master/0567-permutation-in-string) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prarthana021/daily-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prarthana021/daily-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Prarthana021/daily-practice/tree/master/0074-search-a-2d-matrix) |
@@ -119,17 +120,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Prarthana021/daily-practice/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Prarthana021/daily-practice/tree/master/0981-time-based-key-value-store) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Prarthana021/daily-practice/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Prarthana021/daily-practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prarthana021/daily-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Prarthana021/daily-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prarthana021/daily-practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prarthana021/daily-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -138,35 +139,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Prarthana021/daily-practice/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Prarthana021/daily-practice/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Prarthana021/daily-practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prarthana021/daily-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Prarthana021/daily-practice/tree/master/0739-daily-temperatures) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prarthana021/daily-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prarthana021/daily-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Prarthana021/daily-practice/tree/master/0567-permutation-in-string) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/Prarthana021/daily-practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Prarthana021/daily-practice/tree/master/0155-min-stack) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Prarthana021/daily-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Prarthana021/daily-practice/tree/master/0981-time-based-key-value-store) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Prarthana021/daily-practice/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prarthana021/daily-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Prarthana021/daily-practice/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Prarthana021/daily-practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prarthana021/daily-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Prarthana021/daily-practice/tree/master/0021-merge-two-sorted-lists) |
@@ -176,32 +178,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Prarthana021/daily-practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Prarthana021/daily-practice/tree/master/0206-reverse-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Prarthana021/daily-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Prarthana021/daily-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Prarthana021/daily-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Prarthana021/daily-practice/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Prarthana021/daily-practice/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0146-lru-cache](https://github.com/Prarthana021/daily-practice/tree/master/0146-lru-cache) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Prarthana021/daily-practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Prarthana021/daily-practice/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Prarthana021/daily-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Prarthana021/daily-practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0110-balanced-binary-tree) |
@@ -209,26 +212,35 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Prarthana021/daily-practice/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Prarthana021/daily-practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Prarthana021/daily-practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Prarthana021/daily-practice/tree/master/0572-subtree-of-another-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Prarthana021/daily-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Prarthana021/daily-practice/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Prarthana021/daily-practice/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Prarthana021/daily-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Prarthana021/daily-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
