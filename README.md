@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Prarthana021/daily-practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Prarthana021/daily-practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Prarthana021/daily-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0704-binary-search](https://github.com/Prarthana021/daily-practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Prarthana021/daily-practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Prarthana021/daily-practice/tree/master/0875-koko-eating-bananas) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prarthana021/daily-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Prarthana021/daily-practice/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Prarthana021/daily-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Prarthana021/daily-practice/tree/master/0981-time-based-key-value-store) |
 ## Union Find
 | Problem Name | Difficulty |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prarthana021/daily-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prarthana021/daily-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Prarthana021/daily-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Prarthana021/daily-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prarthana021/daily-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Prarthana021/daily-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prarthana021/daily-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Prarthana021/daily-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Prarthana021/daily-practice/tree/main/1046-last-stone-weight/) | Easy |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Prarthana021/daily-practice/tree/main/0621-task-scheduler/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Prarthana021/daily-practice/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/Prarthana021/daily-practice/tree/main/0621-task-scheduler/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
