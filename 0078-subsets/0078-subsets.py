@@ -8,11 +8,11 @@ class Solution:
                 res.append(sub.copy())
                 return
             
-            sub.append(nums[i])
-            dfs(i+1)
+            sub.append(nums[j])
+            dfs(j+1)
 
             sub.pop()
-            dfs(i+1)
+            dfs(j+1)
         dfs(0)
         return res
 
