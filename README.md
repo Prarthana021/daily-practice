@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prarthana021/daily-practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Prarthana021/daily-practice/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Prarthana021/daily-practice/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Prarthana021/daily-practice/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prarthana021/daily-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prarthana021/daily-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prarthana021/daily-practice/tree/master/0128-longest-consecutive-sequence) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Prarthana021/daily-practice/tree/main/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Prarthana021/daily-practice/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Prarthana021/daily-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Prarthana021/daily-practice/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
