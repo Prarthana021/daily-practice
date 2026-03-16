@@ -11,10 +11,10 @@ class Solution:
                 return
 
             cur.append(candidates[i])
-            dfs(i,cur,total+candidates[i])
+            dfs(i,cur,total+candidates[i]) #stay at the same element so i
 
             cur.pop()
-            dfs(i+1,cur,total)
+            dfs(i+1,cur,total)  #move to different element so its i+1
 
         dfs(0,[],0)
         return res
