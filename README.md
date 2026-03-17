@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prarthana021/daily-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Prarthana021/daily-practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Prarthana021/daily-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Prarthana021/daily-practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Prarthana021/daily-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prarthana021/daily-practice/tree/master/0242-valid-anagram) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Prarthana021/daily-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Prarthana021/daily-practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prarthana021/daily-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Prarthana021/daily-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Prarthana021/daily-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prarthana021/daily-practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Prarthana021/daily-practice/tree/main/0046-permutations/) | Medium |
