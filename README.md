@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Prarthana021/daily-practice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Prarthana021/daily-practice/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/Prarthana021/daily-practice/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Prarthana021/daily-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0242-valid-anagram](https://github.com/Prarthana021/daily-practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prarthana021/daily-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Prarthana021/daily-practice/tree/master/0567-permutation-in-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prarthana021/daily-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Prarthana021/daily-practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prarthana021/daily-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Prarthana021/daily-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,4 +298,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Prarthana021/daily-practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Prarthana021/daily-practice/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Prarthana021/daily-practice/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Prarthana021/daily-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
