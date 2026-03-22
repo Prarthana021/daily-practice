@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Prarthana021/daily-practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Prarthana021/daily-practice/tree/main/0621-task-scheduler/) | Medium |
+| [0695-max-area-of-island](https://github.com/Prarthana021/daily-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Prarthana021/daily-practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Prarthana021/daily-practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Prarthana021/daily-practice/tree/master/0875-koko-eating-bananas) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prarthana021/daily-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Prarthana021/daily-practice/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/Prarthana021/daily-practice/tree/main/0695-max-area-of-island/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Prarthana021/daily-practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Prarthana021/daily-practice/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Prarthana021/daily-practice/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/Prarthana021/daily-practice/tree/main/0695-max-area-of-island/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prarthana021/daily-practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Prarthana021/daily-practice/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Prarthana021/daily-practice/tree/main/0695-max-area-of-island/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Prarthana021/daily-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Prarthana021/daily-practice/tree/main/0695-max-area-of-island/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
