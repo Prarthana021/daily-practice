@@ -3,4 +3,4 @@ class Solution:
         result=0
         for num in nums:
             result=result^num
-        return res
+        return result
