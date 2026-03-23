@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prarthana021/daily-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/Prarthana021/daily-practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Prarthana021/daily-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Prarthana021/daily-practice/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Prarthana021/daily-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Prarthana021/daily-practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Prarthana021/daily-practice/tree/master/0146-lru-cache) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Prarthana021/daily-practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0110-balanced-binary-tree) |
+| [0133-clone-graph](https://github.com/Prarthana021/daily-practice/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Prarthana021/daily-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prarthana021/daily-practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Prarthana021/daily-practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/Prarthana021/daily-practice/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Prarthana021/daily-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Prarthana021/daily-practice/tree/main/0695-max-area-of-island/) | Medium |
@@ -313,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Prarthana021/daily-practice/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Prarthana021/daily-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Prarthana021/daily-practice/tree/main/0131-palindrome-partitioning/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/Prarthana021/daily-practice/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
