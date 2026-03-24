@@ -9,7 +9,7 @@ class Solution:
         for course,prereq in prerequisites:
             in_degree[course]+=1 #[1:1,2:1,3:2] 
             adj_list[prereq].append(course)   #0->1,2 , 1->3, 2->3, 3->[]
-        
+        #make list and ajd list and then put value in queue then pop then append
         queue=[]
        
         for i in range(numCourses):
