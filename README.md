@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Prarthana021/daily-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prarthana021/daily-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0743-network-delay-time](https://github.com/Prarthana021/daily-practice/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Prarthana021/daily-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Prarthana021/daily-practice/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Prarthana021/daily-practice/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Prarthana021/daily-practice/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/Prarthana021/daily-practice/tree/main/0743-network-delay-time/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Prarthana021/daily-practice/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Prarthana021/daily-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Prarthana021/daily-practice/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/Prarthana021/daily-practice/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/Prarthana021/daily-practice/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -347,9 +350,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Prarthana021/daily-practice/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Prarthana021/daily-practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Prarthana021/daily-practice/tree/main/0210-course-schedule-ii/) | Medium |
+| [0743-network-delay-time](https://github.com/Prarthana021/daily-practice/tree/main/0743-network-delay-time/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Prarthana021/daily-practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Prarthana021/daily-practice/tree/main/0210-course-schedule-ii/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/Prarthana021/daily-practice/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
