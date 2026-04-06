@@ -1,19 +1,23 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        mymap={}
-        arr=[]
-        for i,n in enumerate(nums):
-            mymap[n]=mymap.get(n,0)+1
-        
-        for n,i in mymap.items():
-            arr.append([i,n])
-        arr.sort()
+        hass={}
+        lst=[]
+        for i in range(len(nums)):
+            hass[nums[i]]=1+hass.get(nums[i],0)
+
+        for key,v in hass.items():
+            lst.append([v,key])
+        lst.sort(reverse=True)
 
         res=[]
-        while len(res)<k:
-            res.append(arr.pop()[1])
+        for i in range(k):
+            res.append(lst[i][1])
+        
         return res
+        
 
+            
+            
 
 
 
