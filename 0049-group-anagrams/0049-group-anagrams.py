@@ -1,24 +1,12 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-
-        mymap={}
-        for s in strs:
-            sortedS=''.join(sorted(s))
-            if sortedS in mymap:
-                mymap[sortedS].append(s)
+        
+        seen={}
+        lst=[]
+        for str in strs:
+            new_str= "".join(sorted(str))
+            if new_str in seen:
+                seen[new_str].append(str)
             else:
-                mymap[sortedS]=[s]
-        return list(mymap.values())
-
-
-
-
-
-        res=defaultdict(list)
-        #list is passed as a function 
-        #defaultdict will call list() whenever a key is missing
-        #{aet: [eat, tea], ant:[tan,ant]}
-        for s in strs:
-            sortedS= ''.join(sorted(s))
-            res[sortedS].append(s)
-        return list(res.values())
+                seen[new_str]=[str]
+        return list(seen.values())
