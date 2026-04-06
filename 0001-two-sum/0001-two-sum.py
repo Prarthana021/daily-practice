@@ -1,17 +1,19 @@
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hasmap={}
-        
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        seen={}
         for i in range(len(nums)):
-            if target-nums[i] in hasmap:
-                return ([i,hasmap.get(target-nums[i])])
+            
+            if (target-nums[i] not in seen):
+                seen[nums[i]]=i
             else:
-                hasmap[nums[i]]=i
+                return[seen.get(target-nums[i]),i]
+        return[0,0]
         
-
-        return [0,0]
-
-
-                
-
+        
+            
         
