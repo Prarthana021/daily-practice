@@ -4,12 +4,12 @@ class Solution:
         length=0
         maxlen=0
 
-        for i in range(len(nums)):
-            if i not in numset:
+        for num in numset:
+            if num-1 not in numset:
                 length=1
-            while nums[i]+length in numset:
-                length+=1
-                maxlen=max(maxlen,length)
+                while num+length in numset:
+                 length+=1
+            maxlen=max(maxlen,length)
         return maxlen
 
 
