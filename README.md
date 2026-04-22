@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Prarthana021/daily-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0695-max-area-of-island](https://github.com/Prarthana021/daily-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/Prarthana021/daily-practice/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/Prarthana021/daily-practice/tree/main/0706-design-hashmap/) | Easy |
 | [0739-daily-temperatures](https://github.com/Prarthana021/daily-practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Prarthana021/daily-practice/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Prarthana021/daily-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Prarthana021/daily-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Prarthana021/daily-practice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Prarthana021/daily-practice/tree/main/0621-task-scheduler/) | Medium |
+| [0706-design-hashmap](https://github.com/Prarthana021/daily-practice/tree/main/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Prarthana021/daily-practice/tree/master/0981-time-based-key-value-store) |
 ## Union Find
 | Problem Name | Difficulty |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Prarthana021/daily-practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Prarthana021/daily-practice/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prarthana021/daily-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0706-design-hashmap](https://github.com/Prarthana021/daily-practice/tree/main/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Prarthana021/daily-practice/tree/master/0981-time-based-key-value-store) |
 ## Math
 | Problem Name | Difficulty |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Prarthana021/daily-practice/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Prarthana021/daily-practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Prarthana021/daily-practice/tree/master/0206-reverse-linked-list) |
+| [0706-design-hashmap](https://github.com/Prarthana021/daily-practice/tree/main/0706-design-hashmap/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Prarthana021/daily-practice/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/Prarthana021/daily-practice/tree/main/0706-design-hashmap/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
