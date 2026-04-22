@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prarthana021/daily-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prarthana021/daily-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Prarthana021/daily-practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Prarthana021/daily-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Prarthana021/daily-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prarthana021/daily-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prarthana021/daily-practice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prarthana021/daily-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Prarthana021/daily-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prarthana021/daily-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Prarthana021/daily-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Prarthana021/daily-practice/tree/main/0022-generate-parentheses/) | Medium |
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/Prarthana021/daily-practice/tree/main/1929-concatenation-of-array/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Prarthana021/daily-practice/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
