@@ -1,20 +1,16 @@
 class Solution:
     def isAnagram(self, s:str,t:str)-> bool:
-        map1={}
-        map2={}
+        str_s={}
+        str_t={}
 
-        if len(s)!=len(t):
-            return False
+        for str in s:
+            str_s[str]=str_s.get(str,0)+1
+        for str in t:
+            str_t[str]=str_t.get(str,0)+1
+        
+        return str_s==str_t
 
-        for i in s:
-            map1[i]= 1+ map1.get(i,0)
-        for i in t:
-            map2[i]= 1+map2.get(i,0)
 
-        for i in s:
-            if map1.get(i)!=map2.get(i):
-                return False
-        return True
-            
+
 
        
