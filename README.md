@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Prarthana021/daily-practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Prarthana021/daily-practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Prarthana021/daily-practice/tree/master/0287-find-the-duplicate-number) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Prarthana021/daily-practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Prarthana021/daily-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0539-minimum-time-difference](https://github.com/Prarthana021/daily-practice/tree/main/0539-minimum-time-difference/) | Medium |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prarthana021/daily-practice/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Prarthana021/daily-practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Prarthana021/daily-practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Prarthana021/daily-practice/tree/master/0155-min-stack) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Prarthana021/daily-practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prarthana021/daily-practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0706-design-hashmap](https://github.com/Prarthana021/daily-practice/tree/main/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Prarthana021/daily-practice/tree/master/0981-time-based-key-value-store) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Prarthana021/daily-practice/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/Prarthana021/daily-practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Prarthana021/daily-practice/tree/main/0200-number-of-islands/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/Prarthana021/daily-practice/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Prarthana021/daily-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Prarthana021/daily-practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/Prarthana021/daily-practice/tree/master/0994-rotting-oranges) |
