@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Prarthana021/daily-practice/tree/main/0706-design-hashmap/) | Easy |
 | [0739-daily-temperatures](https://github.com/Prarthana021/daily-practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Prarthana021/daily-practice/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Prarthana021/daily-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Prarthana021/daily-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/Prarthana021/daily-practice/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Prarthana021/daily-practice/tree/main/1046-last-stone-weight/) | Easy |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Prarthana021/daily-practice/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/Prarthana021/daily-practice/tree/main/0539-minimum-time-difference/) | Medium |
 | [0621-task-scheduler](https://github.com/Prarthana021/daily-practice/tree/main/0621-task-scheduler/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Prarthana021/daily-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Prarthana021/daily-practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Prarthana021/daily-practice/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Prarthana021/daily-practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Prarthana021/daily-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Prarthana021/daily-practice/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Prarthana021/daily-practice/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prarthana021/daily-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/Prarthana021/daily-practice/tree/main/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Prarthana021/daily-practice/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Prarthana021/daily-practice/tree/main/0881-boats-to-save-people/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
