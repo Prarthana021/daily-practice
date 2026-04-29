@@ -1,52 +1,28 @@
+#for each posn find max left and max right array and then answer for each posn will 
+#be water[i] = min(max_left, max_right)-height[i]
+
 class Solution:
     def trap(self, height: List[int]) -> int:
-        l=0
-        r=len(height)-1
-        lmax=height[l]
-        rmax=height[r]
-        res=0
-        while(l<r):
-            if lmax<rmax:
-                l+=1
-                lmax=max(lmax,height[l])
-                res+= (lmax-height[l])
-            else:
-                r-=1
-                rmax=max(rmax,height[r])
-                res+= rmax-height[r]
+        n = len(height)
+        if n == 0:
+            return 0
 
-        return res
+        # precompute left and right max arrays
+        leftMax = [0] * n
+        rightMax = [0] * n
 
+        leftMax[0] = height[0]
+        rightMax[n - 1] = height[n - 1]
 
+        for i in range(1, n):
+            leftMax[i] = max(leftMax[i - 1], height[i])
 
+        for i in range(n - 2, -1, -1):
+            rightMax[i] = max(rightMax[i + 1], height[i])
 
+        # calculate total water
+        totalWater = 0
+        for i in range(n):
+            totalWater += min(leftMax[i], rightMax[i]) - height[i]
 
-
-
-
-
-
-
-
-
-        l=0
-        res=0
-        r=len(height)-1
-        lmax=height[l]
-        rmax=height[r]
-        while l<r:
-            if(lmax<rmax):
-                l+=1
-                lmax=max(lmax,height[l])
-                res+=lmax-height[l]
-
-            else:
-                r-=1
-                rmax=max(rmax,height[r])
-                res+=rmax-height[r]
-            
-        return res
-
-
-
-        
+        return totalWater
