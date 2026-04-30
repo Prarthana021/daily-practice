@@ -19,7 +19,7 @@ class Solution:
                 return True
             window.add(j)
             if len(window)>k:
-                window.remove(nums[i-k])
+                window.remove(nums[i-k]) #sliding the window
         return False
 
         
