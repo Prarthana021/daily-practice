@@ -15,7 +15,7 @@ class Solution:
         window=set()
 
         for i,j in enumerate(nums):
-            if j in window:
+            if j in window: # if its in the window it autoomatically mean j-i<k
                 return True
             window.add(j)
             if len(window)>k:
