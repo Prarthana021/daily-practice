@@ -1,28 +1,34 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        count={}
-        l=0
+        hasmap={}
+        maxfreq=0
+        left=0
         res=0
-        for r in range(len(s)):
-            count[s[r]]=count.get(s[r],0)+1
-            while (r-l+1)-max(count.values())>k:
-                count[s[l]]-=1
-                l+=1
-            res=max(res,r-l+1)
+        winsize=0
+        for right in range(len(s)):
+            hasmap[s[right]]=hasmap.get(s[right],0)+1
+            maxfreq=max(hasmap.values())
+            winsize=right-left+1
+            replacement=winsize-maxfreq
+
+            while replacement>k:
+                hasmap[s[left]]-=1
+                left+=1
+
+               # recompute after shrinking
+                winsize-=1
+                maxfreq=max(hasmap.values())
+                replacement=winsize-maxfreq
+            res=max(res,winsize)
         return res
+            
+
+                
+
+                
 
 
+            
 
 
-            #Window size = r - l + 1 should always be calculated dynamically
-            #because l changes inside the loop. so dont use variable like winlen
-            #because until window beocmes valid we increment value of l and again with new value we check window validity so this is very dynamic thing
-
-
-#sliding window:
-
-# while window is invalid:
-    # make valid
-    #shrink window by moving left
-
-    
+        
