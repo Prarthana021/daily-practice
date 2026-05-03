@@ -12,7 +12,7 @@ class Solution:
 
             while self.contains(mapT,mapS): #for valid window
                 if res=="" or right-left+1 < len(res): #check and record minimum valid
-                    res=s[left:right+1]. #if min valid is available 
+                    res=s[left:right+1] #if min valid is available 
                 mapS[s[left]]-=1 # even if not if t in s then we shrink window and check again 
                 left+=1
         return res
