@@ -12,7 +12,7 @@ class Solution:
                 right=mid-1
             else:
                 left=mid+1
-        return left
+        return left #    At the end of binary search:left will be the correct insert position left is the first position where target can fit
             
                 
 
