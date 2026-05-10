@@ -1,30 +1,52 @@
-class Solution:
-    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        rows,cols=len(matrix), len(matrix[0])
-        top, bot=0,rows-1
-        while top<=bot:
-            row = (top+bot) // 2
-            if target > matrix[row][-1]: #last eleemnt of that row since it is max(sorted)
-                top=row+1
-            elif target < matrix[row][0]:
-                bot=row-1
-            else:
-                break
-        
-        if not(top <= bot):
-            return False
-        row = (top+bot)//2
-        l,r=0,cols-1
-        while l<=r:
-            m=(l+r)//2
-            if target > matrix[row][m]:
-                l=m+1
-            elif target < matrix[row][m]:
-                r=m-1
-            else:
-                return True
+class Solution(object):
+    def searchMatrix(self, matrix, target):
+        row_index = self.searchRow(matrix, target)
+
+        if row_index != -1:
+            return self.binarySearchRow(matrix, row_index, target)
+
         return False
 
 
+    def searchRow(self, matrix, target):
+        low = 0
+        high = len(matrix) - 1
+        last_col = len(matrix[0]) - 1
 
-        
+        while low <= high:
+            mid = (low + high) // 2
+
+            first = matrix[mid][0]
+            last = matrix[mid][last_col]
+
+            if first <= target and target <= last:
+                return mid
+
+            elif target > last:
+                low = mid + 1
+
+            else:
+                high = mid - 1
+
+        return -1
+
+
+    def binarySearchRow(self, matrix, row_index, target):
+        low = 0
+        high = len(matrix[row_index]) - 1
+
+        while low <= high:
+            mid = (low + high) // 2
+
+            value = matrix[row_index][mid]
+
+            if value == target:
+                return True
+
+            elif value > target:
+                high = mid - 1
+
+            else:
+                low = mid + 1
+
+        return False
