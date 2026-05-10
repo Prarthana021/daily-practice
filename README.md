@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prarthana021/daily-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prarthana021/daily-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Prarthana021/daily-practice/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Prarthana021/daily-practice/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/Prarthana021/daily-practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Prarthana021/daily-practice/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Prarthana021/daily-practice/tree/master/0981-time-based-key-value-store) |
@@ -443,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Prarthana021/daily-practice/tree/master/0239-sliding-window-maximum) |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Prarthana021/daily-practice/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
