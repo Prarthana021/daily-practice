@@ -1,21 +1,21 @@
-class Solution:
-    def minEatingSpeed(self, piles: List[int], h: int) -> int:
-       l=1
-       r=max(piles)
-       res=r #because r cant exceed the max value in pile; kok cant eat more than max in the pile at once
-       while l<=r:
-        m=(l+r)//2
-        time = 0 
-        for i in piles:
-            time+=math.ceil(float(i) / m)
-        if time <= h:
-            res=min(res,m)
-            r=m-1
-        else:
-            l=m+1
-       return res
+class Solution(object):
+    def minEatingSpeed(self, piles, h):
+        l=1
+        r=max(piles)
+         #because r cant exceed the max value in pile; koko cant eat more than that
+
+        while l<r:
+            mid=(l+r)//2
+
+            totaltime=0
+            for p in piles:
+                totaltime+=math.ceil(float(p)/mid)
+            if totaltime <=h:
+                r=mid
+            
+            else:
+                l = mid+1
+        return r
 
 
-
-        
         
