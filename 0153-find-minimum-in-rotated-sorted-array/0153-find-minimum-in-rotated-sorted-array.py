@@ -1,14 +1,16 @@
-class Solution:
-    def findMin(self, nums: List[int]) -> int:
-        l=0
-        r=len(nums)-1
-        while l<=r:
-            m=(l+r)//2
-            if nums[m]>=nums[r]:
-                l=m+1
+class Solution(object):
+    def findMin(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        left=0
+        right=len(nums)-1
+
+        while left < right: #[not <= bcuz we ain't doing if xyz= target we dont know it yet]
+            mid = (left+right)//2
+            if nums[mid] > nums[right]: #meaning we take unsroted array
+                left = mid+1
             else:
-                r= m #not m-1 because m itself can be minimum so we cant discard it
-        return nums[r]
-
-
-        
+                right=mid
+        return nums[right]
