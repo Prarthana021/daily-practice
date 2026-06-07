@@ -1,20 +1,21 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        hasmap={}
+        # hashmap key -> number posn -> index
+        # target-i is in the hashmap then return i and index of target-nums(i) 
+        # else add nums(i) to hashmap 
+
+        hmap={}
         for i in range(len(nums)):
-            complement=target-nums[i]
-            if complement not in hasmap:
-                hasmap[nums[i]]=i
+            complement= target-nums[i]
+            if complement in hmap:
+                return([i,hmap.get(complement)])
             else:
-                return [hasmap.get(complement),i]
+                hmap[nums[i]]=i
 
+            
 
-     
         
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-    
-                                                        
+
+
+
+        
